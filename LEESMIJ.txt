@@ -18,7 +18,7 @@ Na het opstarten van deze omgeving voer je ALTIJD EERST deze twee stappen uit (e
 1) Ga naar de terminal (tabblad >_/workspace/csg_if_databases) en typ achter $ in:  ./init_database.sh  (kies daarna Enter)
 2) Ga hieronder naar het tabblad "Open Ports" en klik achter 8080 op Open Browser
 
-Via index.html kun je nu de belangrijkste diensten bereiken:.
+Via index.html kun je nu de belangrijkste diensten bereiken:..
 > de querier - om sql-opdrachten uit te voeren
 > phpMyAdmin - om zelf databases te maken of aan te passen
 > herstel en opslag databases - Hier kun alle databases terugzetten in de staat zoals je ze hebt gekregen. 
